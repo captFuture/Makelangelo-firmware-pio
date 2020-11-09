@@ -1,0 +1,3 @@
+[submodule "Makelangelo-firmware"]
+	path = Makelangelo-firmware
+	url = https://github.com/MarginallyClever/Makelangelo-firmware.git
